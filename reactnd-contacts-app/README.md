@@ -5,5 +5,6 @@ This repo is a code-along with the first project in the [React Nanodegree progra
 ## Project Setup
 
 1. Clone the project - `git clone https://github.com/sakshi-kst/React-Contacts-App.git`
-2. Install its dependencies - `npm install`
-3. Run the app - `npm start`
+2. `cd reactnd-contacts-app`
+3. Install its dependencies - `npm install`
+4. Run the app - `npm start`
